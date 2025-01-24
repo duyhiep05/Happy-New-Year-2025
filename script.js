@@ -2297,7 +2297,7 @@ if (IS_HEADER) {
 function fireworksComplete() {
     // Thêm chữ "Happy New Year 2025" vào giữa màn hình
     const message = document.createElement("div");
-    message.innerText = "Happy New Year 2025 ";
+    message.innerText = "Happy New Year";
     message.style.position = "absolute";
     message.style.top = "45%";
     message.style.left = "50%";
